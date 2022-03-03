@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QrGenScan</string>
+    <string name="edit_text_for_generate_qr">Введите текст для генерации QR кода</string>
+    <string name="button_scanner">Сканирование</string>
+    <string name="button_generate">Генерация</string>
+</resources>
